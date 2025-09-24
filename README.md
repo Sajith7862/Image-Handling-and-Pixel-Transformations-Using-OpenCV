@@ -210,57 +210,47 @@ plt.show()
 ```
 
 ## Output:
-- ### i) Read and Display an Image.  
-   1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
+### Orginal Image:
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/8e61c818-c7bb-4a25-b03b-c6c457143c77" />
 
-![image](https://github.com/user-attachments/assets/8fbee7a1-6682-4ebc-bf5d-0e99168fe414)
+### Image with line:
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/8eaeb135-29c1-4a3e-a835-a0bbb1cc9831" />
 
-  2.Save image as PNG and display:
+### Image with Circle:
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/71c7f372-4792-4e89-8290-08ac6f448cf3" />
 
-![image](https://github.com/user-attachments/assets/f3c7b81e-a1d3-47d8-8bce-41506c62019f)
+### Image with Rectangle:
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/0387bf80-1bf1-4a53-80e8-237313aef271" />
 
-  3.Cropped image:
+### Image with Text:
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/16cd524b-9eca-4c66-be6e-1f6159c7caf7" />
 
-![image](https://github.com/user-attachments/assets/6844ce30-4221-4a0f-baa4-ffb871f70048)
+### Orginal RGB Image:
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/7dfbf1a4-781c-4e8d-a896-035c21b673d2" />
 
-  4.Resize and flip Horizontally:
-  
-![image](https://github.com/user-attachments/assets/52f120d2-1e32-4f45-8ca6-30b834ada0d1)
+### HSV Image:
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/e97151a5-19fc-4ca8-88f5-5e72659516bb" />
 
-  5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
+### Gray scale Image:
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/835fe6d6-dfba-4690-8c46-4bce99e99cb7" />
 
-![image](https://github.com/user-attachments/assets/f9f8af66-0811-4ef7-93dd-26fd825533b7)
+### YCrCb Image:
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/7a5d6509-55ef-409b-b162-aeb0f47398df" />
 
-- ### ii) Adjust Image Brightness.
+### HSV TO RGB IMAGE:
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/fbacdde6-02f3-49ab-8027-5abb11e34014" />
 
-1.Create brighter and darker images and display:
+### IMAGE WITH 300*300 WHITE BLOCK:
+<img width="294" height="411" alt="image" src="https://github.com/user-attachments/assets/d45d04c6-c52f-496e-ad2d-17fe225408b7" />
 
-![image](https://github.com/user-attachments/assets/f3d0d3c8-ec57-4e26-a465-6ffda3013a4c)
+### RESIZED IMAGE:
+<img width="493" height="411" alt="image" src="https://github.com/user-attachments/assets/ac80bbbf-2875-4f2a-9288-dc2b7a3e8c2d" />
 
-- ### iii) Modify Image Contrast.  
-1. Modify contrast using scaling factors 1.1 and 1.2:
+### Flipped Horizontally:
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/f1bc7a94-9b10-499a-b2ab-30531f1bde29" />
 
-![image](https://github.com/user-attachments/assets/6b62e423-7f57-444e-bf5b-c739da8cdd43)
-
-- ### iv) Generate Third Image Using Bitwise Operations.
-
-1.Split 'Boy.jpg' into B, G, R components and display:
-
-![image](https://github.com/user-attachments/assets/377fdfc6-4567-475c-a7e9-0b3508b685c2)
-
-2.Merge the R, G, B channels and display:
-
-![image](https://github.com/user-attachments/assets/09d5507f-ae48-4ab3-bc7d-9b7466ce7e81)
-
-3.Split the image into H, S, V components and display:
-
-![image](https://github.com/user-attachments/assets/636cfcda-8dc0-4354-97d5-23a71adaa1ac)
-
-
-4.Merge the H, S, V channels and display:
-
-![image](https://github.com/user-attachments/assets/3c8fa07d-31ff-4b14-87c1-061ffef0447e)
-
+### Fliped Vertically :
+<img width="264" height="411" alt="image" src="https://github.com/user-attachments/assets/aaddeea3-f2e5-4a1c-a43e-31759f30842c" />
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
